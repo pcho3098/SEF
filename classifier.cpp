@@ -17,4 +17,8 @@ public:
 	int data() {
 		return data;
 	}
+
+	void train() {
+		printf("train\n");
+	}
 };
